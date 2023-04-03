@@ -4,3 +4,7 @@ data/
 # Python 
 *.pyc
 
+# Abstract 
+*.docx
+*.pdf
+
