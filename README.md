@@ -9,4 +9,4 @@ Machine learning tools like ChatGPT and Midjourney are extremely popular right n
 Please bring your own computer to actively participate in the workshop. 
 
 ## Preparation
-We will use Python and Jupyter Notebooks during the workshop. Some basic instructions for setting up the environment on your computer and basic Python syntax is given in the `python_basics.ipynb` notebook. Alternatively, you may use binder to interactively participate in the workshop using your browser only. 
+We will use Python and Jupyter Notebooks during the workshop. Some basic instructions for setting up the environment on your computer and basic Python syntax is given in the `python_basics.ipynb` notebook. Alternatively, you may use Binder (hit the button `Launch Binder` and wait a few moments) to interactively participate in the workshop using your browser only. 
