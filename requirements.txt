@@ -1,6 +1,4 @@
 numpy
 matplotlib 
 pytorch 
-torchvision 
-jupyter-lab 
-ipykernel
+torchvision
