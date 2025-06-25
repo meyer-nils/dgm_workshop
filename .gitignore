@@ -8,3 +8,5 @@ data/
 *.docx
 *.pdf
 
+# Mac stuff
+.DS_Store
